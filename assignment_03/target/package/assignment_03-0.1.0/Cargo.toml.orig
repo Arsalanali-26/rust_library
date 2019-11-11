@@ -1,6 +1,6 @@
 [package]
 name = "assignment_03"
-version = "0.1.1"
+version = "0.1.0"
 authors = ["arsalan.ali"]
 edition = "2018"
 discription = "my First library"
