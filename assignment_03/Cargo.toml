@@ -1,0 +1,12 @@
+[package]
+name = "assignment_03"
+version = "0.1.0"
+authors = ["arsalan.ali"]
+edition = "2018"
+discription = "my First library"
+licence ="MIT"
+repository = "https://github.com/Arsalanali-26/rust_library"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
